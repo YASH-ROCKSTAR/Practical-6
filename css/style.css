@@ -17,6 +17,10 @@ h3{
     justify-content: center;
     text-align: center;
 }
+.heading
+{
+    margin-left: 1%;
+}
 .card
 {
     background-color:honeydew;
